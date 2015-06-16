@@ -1,0 +1,68 @@
+
+
+2015-04-14 第01章 JAVA简介 01开班简介 前言
+学习方法，
+
+-------------------------------------------
+
+2015-04-16 第01章 JAVA简介 02开班简介 前言
+链接共享目录
+jdk下载，安装文件
+http://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-142931.html
+如果有了的话，先卸载，然后安装
+
+开发的环境 jdk
+运行的环境 jre
+
+cmd---javac，如果有了一系列提示，说明安装好了。
+
+--------------------------------------------
+
+第01章 JAVA简介 03 JDK初步与HelloWorld
+
+j2se之java 概述
+第一章，java特点，运行机制，环境安装配置，helloworld
+计算机语言发展历史（第几代语言）：打孔机---汇编---c pascal fortran---面向对象
+sql，自然语言
+java发展史 jdk1.4最流行
+1.5增加了范型，java5.0
+j2se，javase（standard edition）
+j2me，
+j2ee，
+
+语言特点：
+面向对象的语言
+平台无关的语言
+健壮的语言，去掉了影响健壮性，指针、内存申请与释放
+
+核心机制
+java虚拟机（JVM） ---与平台无关
+垃圾收集机制
+java编译器---字节码 .class文件，---解释型的语言
+JVM for unix，windows，other
+虚拟机屏蔽了不同平台，一次编译，随处运行
+
+添加环境变量，javac，如果不认识的时候，只要c/programfiles /java，jre1.8.0_45/bin
+java -version
+**************************
+第二章，java语言基础
+
+
+
+
+
+
+***************************
+第三章，面向对象编辑
+
+
+
+
+
+
+
+
+
+
+
+

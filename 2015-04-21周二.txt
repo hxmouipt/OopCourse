@@ -1,0 +1,58 @@
+
+03_JDK初步与Helloworld.avi
+------------------------------------
+
+04_HelloWorld 解释与程序员的设置.avi
+
+public class HelloWorld{
+	public static void main( String[] args){
+		System.out.println("HelloWorld!");
+	}
+}
+------------------------------------
+
+05_HelloWorld常见问题与classpath配置
+
+main noclassdeffounderror
+
+
+06_总结
+copy
+path，classpath
+
+
+-------------------------------------
+-------------------------------------
+J2SE基础语法
+
+01_标识符，关键字，数据类型
+
+字母，下划线，美元符，数字
+大小写敏感
+见名知意
+
+goto  const abstract
+常量
+final，值不可以改变的变量
+type varName
+int i=100;
+float f=12.3f;
+double d1,d2,d3=0.123;
+string s="hello";
+
+变量其实是内存中一小块区域
+变量，出了大括号，没有人能认识他了。
+
+unicode全球语言统一编码
+
+
+
+
+
+
+
+
+
+
+
+
